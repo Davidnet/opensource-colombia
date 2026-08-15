@@ -27,6 +27,7 @@ window.CATEGORIES = {
     angel: { name: "Angel Leonardo y Cro128", github: "ADVAD1D", area: "Godot, videojuegos" },
     manuel: { name: "Manuel Gil", github: "ManuelGil", area: "Extensiones VS Code" },
     john: { name: "John Guerra", github: "john-guerra", area: "Datos geográficos" },
+    julian: { name: "Julian Dario Luna Patiño", github: "Kaddo-kdd", area: "IA, CLI, DevTools" },
   };
 
   window.PROJECTS = [
@@ -247,6 +248,18 @@ window.CATEGORIES = {
         es: "Extensión de VS Code para crear y mantener archivos barrel (index.ts) en proyectos TypeScript/JavaScript.",
         en: "VS Code extension to create and maintain barrel files (index.ts) in TypeScript/JavaScript projects.",
         pt: "Extensão do VS Code para criar e manter arquivos barrel (index.ts) em projetos TypeScript/JavaScript.",
+      },
+    },
+    {
+      name: "Kaddo",
+      url: "https://github.com/Kaddo-kdd/kaddo",
+      category: "extensions",
+      creator: C.julian,
+      tags: ["CLI", "AI", "MCP"],
+      description: {
+        es: "Toolkit CLI y de agentes que prepara cualquier base de código para el desarrollo asistido por IA, construyendo una capa de conocimiento estructurada junto al código (Knowledge Driven Development).",
+        en: "CLI and agent toolkit that prepares any codebase for AI-assisted development by building a structured knowledge layer alongside the code (Knowledge Driven Development).",
+        pt: "Toolkit de CLI e agentes que prepara qualquer base de código para o desenvolvimento assistido por IA, construindo uma camada de conhecimento estruturada junto ao código (Knowledge Driven Development).",
       },
     },
     {

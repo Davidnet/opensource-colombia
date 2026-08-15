@@ -9,7 +9,7 @@
 [![All Contributors](https://img.shields.io/github/all-contributors/Mteheran/opensource-colombia?color=ee8449&style=flat-square)](#-contribuidores)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-> 📊 **Totales:** 20 proyectos · 7 categorías
+> 📊 **Totales:** 21 proyectos · 7 categorías
 
 Una muestra del talento colombiano en tecnología, programación y datos abiertos. Todos los proyectos son:
 
@@ -137,6 +137,11 @@ Allí puedes buscar proyectos, filtrar por categoría y descubrir el talento col
 - **Descripción:** Extensión de VS Code para crear y mantener archivos barrel (index.ts) en proyectos TypeScript/JavaScript.
 - **Categoría:** Extensiones VS Code / Productividad
 - **Creador:** Manuel Gil
+
+### 🔹 [Kaddo](https://github.com/Kaddo-kdd/kaddo)
+- **Descripción:** Toolkit CLI y de agentes que prepara cualquier base de código para el desarrollo asistido por IA, construyendo una capa de conocimiento estructurada junto al código (Knowledge Driven Development).
+- **Categoría:** Herramientas para IA / CLI
+- **Creador:** Julian Dario Luna Patiño
 
 ---
 
