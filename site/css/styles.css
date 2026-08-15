@@ -219,12 +219,12 @@ a {
   gap: 10px;
 }
 
-/* --- Buscador del header ------------------------------------------------- */
+/* --- Buscador (en la barra de filtros) ---------------------------------- */
 .search-box {
   display: flex;
   align-items: center;
   gap: 8px;
-  width: 200px;
+  width: 240px;
   background: var(--color-surface);
   border: 1px solid var(--color-border);
   border-radius: var(--radius-sm);
@@ -333,10 +333,6 @@ a {
     flex-wrap: wrap;
     width: 100%;
     margin-left: 0;
-  }
-  .search-box {
-    order: -1;
-    width: 100%;
   }
   .lang-btn {
     padding: 11px 14px;
@@ -720,9 +716,20 @@ a {
   color: var(--color-primary-contrast);
 }
 
+/* --- Herramientas de la barra de filtros (buscador + vista) -------------- */
+/* Ocupan una fila propia, debajo de los chips: buscador y, a su lado a la
+   izquierda, el conmutador de vista. */
+.filter-tools {
+  width: 100%;
+  margin-top: 11px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+}
+
 /* --- Conmutador de vista ------------------------------------------------- */
 .view-switch {
-  margin-left: auto;
   display: flex;
   flex: 0 0 auto;
   border: 1px solid var(--color-border);
@@ -777,6 +784,18 @@ a {
   height: 2.5px;
   background: currentColor;
   border-radius: 1px;
+}
+
+/* --- Barra de filtros en móvil ------------------------------------------- */
+@media (max-width: 640px) {
+  .filter-tools {
+    width: 100%;
+    margin-left: 0;
+  }
+  .search-box {
+    flex: 1 1 auto;
+    width: auto;
+  }
 }
 
 /* --- Contador de resultados --------------------------------------------- */

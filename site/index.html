@@ -125,23 +125,6 @@
         </nav>
 
         <div class="header-controls">
-          <label for="search" class="visually-hidden" data-i18n="searchLabel"
-            >Buscar proyectos</label
-          >
-          <div class="search-box">
-            <span class="search-icon" aria-hidden="true">⌕</span>
-            <input
-              type="search"
-              id="search"
-              class="search-input"
-              autocomplete="off"
-              placeholder="Buscar por nombre, descripción o creador…"
-              data-i18n-attr="placeholder:searchPlaceholder"
-              aria-describedby="results-count"
-            />
-            <kbd class="search-kbd" aria-hidden="true">/</kbd>
-          </div>
-
           <div class="lang-switch" role="group" aria-label="Idioma" id="lang-group">
             <button type="button" class="lang-btn" data-lang="es" aria-pressed="true">
               ES
@@ -285,8 +268,26 @@
           <a class="chip" href="?cat=recursos" data-cat="recursos">Recursos</a>
         </div>
 
-        <div
-          class="view-switch"
+        <div class="filter-tools">
+          <label for="search" class="visually-hidden" data-i18n="searchLabel"
+            >Buscar proyectos</label
+          >
+          <div class="search-box">
+            <span class="search-icon" aria-hidden="true">⌕</span>
+            <input
+              type="search"
+              id="search"
+              class="search-input"
+              autocomplete="off"
+              placeholder="Buscar por nombre, descripción o creador…"
+              data-i18n-attr="placeholder:searchPlaceholder"
+              aria-describedby="results-count"
+            />
+            <kbd class="search-kbd" aria-hidden="true">/</kbd>
+          </div>
+
+          <div
+            class="view-switch"
           id="view-switch"
           role="group"
           aria-label="Vista"
@@ -304,6 +305,7 @@
             </span>
             <span data-i18n="viewList">Lista</span>
           </button>
+          </div>
         </div>
       </section>
 
