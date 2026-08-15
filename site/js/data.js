@@ -28,6 +28,7 @@ window.CATEGORIES = {
     manuel: { name: "Manuel Gil", github: "ManuelGil", area: "Extensiones VS Code" },
     john: { name: "John Guerra", github: "john-guerra", area: "Datos geográficos" },
     julian: { name: "Julian Dario Luna Patiño", github: "Kaddo-kdd", area: "IA, CLI, DevTools" },
+    mateo: { name: "Mateo Robayo Rodríguez", github: "carenalgas", area: "Godot, videojuegos" },
   };
 
   window.PROJECTS = [
@@ -260,6 +261,18 @@ window.CATEGORIES = {
         es: "Toolkit CLI y de agentes que prepara cualquier base de código para el desarrollo asistido por IA, construyendo una capa de conocimiento estructurada junto al código (Knowledge Driven Development).",
         en: "CLI and agent toolkit that prepares any codebase for AI-assisted development by building a structured knowledge layer alongside the code (Knowledge Driven Development).",
         pt: "Toolkit de CLI e agentes que prepara qualquer base de código para o desenvolvimento assistido por IA, construindo uma camada de conhecimento estruturada junto ao código (Knowledge Driven Development).",
+      },
+    },
+    {
+      name: "Popochiu",
+      url: "https://github.com/carenalgas/popochiu",
+      category: "extensions",
+      creator: C.mateo,
+      tags: ["Godot", "Point & Click"],
+      description: {
+        es: "Plugin de Godot para crear juegos de aventura gráfica point-and-click, inspirado en Adventure Game Studio y PowerQuest, con gestión de habitaciones, personajes, diálogos e inventario.",
+        en: "Godot plugin for making point-and-click adventure games, inspired by Adventure Game Studio and PowerQuest, with room, character, dialogue and inventory management.",
+        pt: "Plugin do Godot para criar jogos de aventura point-and-click, inspirado no Adventure Game Studio e PowerQuest, com gerenciamento de salas, personagens, diálogos e inventário.",
       },
     },
     {

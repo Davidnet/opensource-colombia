@@ -9,7 +9,7 @@
 [![All Contributors](https://img.shields.io/github/all-contributors/Mteheran/opensource-colombia?color=ee8449&style=flat-square)](#-contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-> 📊 **Totals:** 21 projects · 7 categories
+> 📊 **Totals:** 22 projects · 7 categories
 
 A showcase of Colombian talent in technology, programming and open data. All projects are:
 
@@ -142,6 +142,11 @@ There you can search projects, filter by category and discover Colombian open so
 - **Description:** CLI and agent toolkit that prepares any codebase for AI-assisted development by building a structured knowledge layer alongside the code (Knowledge Driven Development).
 - **Category:** AI tools / CLI
 - **Creator:** Julian Dario Luna Patiño
+
+### 🔹 [Popochiu](https://github.com/carenalgas/popochiu)
+- **Description:** Godot plugin for making point-and-click adventure games, inspired by Adventure Game Studio and PowerQuest, with room, character, dialogue and inventory management.
+- **Category:** Godot plugin / Adventure games
+- **Creator:** Mateo Robayo Rodríguez
 
 ---
 
