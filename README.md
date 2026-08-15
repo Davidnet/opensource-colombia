@@ -9,7 +9,7 @@
 [![All Contributors](https://img.shields.io/github/all-contributors/Mteheran/opensource-colombia?color=ee8449&style=flat-square)](#-contribuidores)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-> 📊 **Totales:** 21 proyectos · 7 categorías
+> 📊 **Totales:** 22 proyectos · 7 categorías
 
 Una muestra del talento colombiano en tecnología, programación y datos abiertos. Todos los proyectos son:
 
@@ -142,6 +142,11 @@ Allí puedes buscar proyectos, filtrar por categoría y descubrir el talento col
 - **Descripción:** Toolkit CLI y de agentes que prepara cualquier base de código para el desarrollo asistido por IA, construyendo una capa de conocimiento estructurada junto al código (Knowledge Driven Development).
 - **Categoría:** Herramientas para IA / CLI
 - **Creador:** Julian Dario Luna Patiño
+
+### 🔹 [Popochiu](https://github.com/carenalgas/popochiu)
+- **Descripción:** Plugin de Godot para crear juegos de aventura gráfica point-and-click, inspirado en Adventure Game Studio y PowerQuest, con gestión de habitaciones, personajes, diálogos e inventario.
+- **Categoría:** Plugin de Godot / Aventuras gráficas
+- **Creador:** Mateo Robayo Rodríguez
 
 ---
 
