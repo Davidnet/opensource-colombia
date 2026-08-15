@@ -200,6 +200,17 @@ window.PROJECTS = [
     },
   },
   {
+    name: "Kaddo",
+    url: "https://github.com/Kaddo-kdd/kaddo",
+    category: "extensions",
+    creator: "Julian Dario Luna Patiño",
+    description: {
+      es: "Toolkit CLI y de agentes que prepara cualquier base de código para el desarrollo asistido por IA, construyendo una capa de conocimiento estructurada junto al código (Knowledge Driven Development).",
+      en: "CLI and agent toolkit that prepares any codebase for AI-assisted development by building a structured knowledge layer alongside the code (Knowledge Driven Development).",
+      pt: "Toolkit de CLI e agentes que prepara qualquer base de código para o desenvolvimento assistido por IA, construindo uma camada de conhecimento estruturada junto ao código (Knowledge Driven Development).",
+    },
+  },
+  {
     name: "FastAPI Cloud",
     url: "https://fastapicloud.com",
     category: "services",

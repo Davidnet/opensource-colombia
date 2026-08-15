@@ -9,7 +9,7 @@
 [![All Contributors](https://img.shields.io/github/all-contributors/Mteheran/opensource-colombia?color=ee8449&style=flat-square)](#-contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-> 📊 **Totals:** 19 projects · 6 categories
+> 📊 **Totals:** 20 projects · 6 categories
 
 A showcase of Colombian talent in technology, programming and open data. All projects are:
 
@@ -137,6 +137,11 @@ There you can search projects, filter by category and discover Colombian open so
 - **Description:** VS Code extension to create and maintain barrel files (index.ts) in TypeScript/JavaScript projects.
 - **Category:** VS Code extensions / Productivity
 - **Creator:** Manuel Gil
+
+### 🔹 [Kaddo](https://github.com/Kaddo-kdd/kaddo)
+- **Description:** CLI and agent toolkit that prepares any codebase for AI-assisted development by building a structured knowledge layer alongside the code (Knowledge Driven Development).
+- **Category:** AI tools / CLI
+- **Creator:** Julian Dario Luna Patiño
 
 ---
 
