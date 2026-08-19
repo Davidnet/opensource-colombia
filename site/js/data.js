@@ -30,6 +30,7 @@ window.CATEGORIES = {
     julian: { name: "Julian Dario Luna Patiño", github: "Kaddo-kdd", area: "IA, CLI, DevTools" },
     mateo: { name: "Mateo Robayo Rodríguez", github: "carenalgas", area: "Godot, videojuegos" },
     david: { name: "David Cardozo", github: "Davidnet", area: "IA, privacidad, interpretabilidad" },
+    cristian: { name: "Cristian García", github: "cgarciae", area: "JAX, deep learning" },
   };
 
   window.PROJECTS = [
@@ -117,6 +118,18 @@ window.CATEGORIES = {
         es: "Paquete de Python para interpretabilidad mecanicista de agentes de IA: entrena autoencoders dispersos (SAE) sobre las activaciones internas de un modelo para explicar por qué elige una herramienta u otra.",
         en: "Python package for mechanistic interpretability of AI agents: trains sparse autoencoders (SAEs) on a model's internal activations to explain why it selects one tool over another.",
         pt: "Pacote Python para interpretabilidade mecanicista de agentes de IA: treina autoencoders esparsos (SAE) sobre as ativações internas de um modelo para explicar por que ele escolhe uma ferramenta em vez de outra.",
+      },
+    },
+    {
+      name: "Flax NNX",
+      url: "https://github.com/google/flax",
+      category: "libraries",
+      creator: C.cristian,
+      tags: ["JAX", "Deep Learning", "Python"],
+      description: {
+        es: "API de Flax (biblioteca de redes neuronales para JAX de Google) que usa clases de Python estándar y manejo de estado explícito para hacer la definición y el entrenamiento de modelos más simple e intuitivo.",
+        en: "API of Flax (Google's neural network library for JAX) that uses standard Python classes and explicit state handling to make defining and training models simpler and more intuitive.",
+        pt: "API do Flax (biblioteca de redes neurais para JAX do Google) que usa classes Python padrão e gerenciamento explícito de estado para tornar a definição e o treinamento de modelos mais simples e intuitivos.",
       },
     },
     {

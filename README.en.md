@@ -9,7 +9,7 @@
 [![All Contributors](https://img.shields.io/github/all-contributors/Mteheran/opensource-colombia?color=ee8449&style=flat-square)](#-contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-> 📊 **Totals:** 24 projects · 7 categories
+> 📊 **Totals:** 25 projects · 7 categories
 
 A showcase of Colombian talent in technology, programming and open data. All projects are:
 
@@ -66,6 +66,11 @@ There you can search projects, filter by category and discover Colombian open so
 - **Description:** Python package for mechanistic interpretability of AI agents: trains sparse autoencoders (SAEs) on a model's internal activations to explain why it selects one tool over another.
 - **Category:** AI interpretability / Machine learning
 - **Creator:** David Cardozo
+
+### 🔹 [Flax NNX](https://github.com/google/flax)
+- **Description:** API of Flax (Google's neural network library for JAX) that uses standard Python classes and explicit state handling to make defining and training models simpler and more intuitive.
+- **Category:** Deep learning framework
+- **Creator:** Cristian García
 
 ---
 
