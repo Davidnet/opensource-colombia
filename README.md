@@ -9,7 +9,7 @@
 [![All Contributors](https://img.shields.io/github/all-contributors/Mteheran/opensource-colombia?color=ee8449&style=flat-square)](#-contribuidores)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-> 📊 **Totales:** 22 proyectos · 7 categorías
+> 📊 **Totales:** 23 proyectos · 7 categorías
 
 Una muestra del talento colombiano en tecnología, programación y datos abiertos. Todos los proyectos son:
 
@@ -61,6 +61,11 @@ Allí puedes buscar proyectos, filtrar por categoría y descubrir el talento col
 - **Descripción:** Librería de íconos SVG de estilo lineal (outline) inspirados en la cultura, naturaleza y tradiciones de Colombia, disponible para React, Angular y Blazor.
 - **Categoría:** Librería de íconos / UI
 - **Creador:** Miguel Teheran
+
+### 🔹 [crd-ui](https://github.com/JuandaGarcia/crd-ui)
+- **Descripción:** Componente de tarjeta de crédito y débito para formularios de pago y vistas de tarjetas guardadas, con detección de marca en vivo, giro 3D y temas por variables CSS. Sin dependencias, para React, Vue, Svelte y JavaScript puro en un solo paquete.
+- **Categoría:** Componentes de UI / formularios de pago
+- **Creador:** Juan David García Rincón
 
 ---
 

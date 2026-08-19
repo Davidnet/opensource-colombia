@@ -9,7 +9,7 @@
 [![All Contributors](https://img.shields.io/github/all-contributors/Mteheran/opensource-colombia?color=ee8449&style=flat-square)](#-contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-> 📊 **Totals:** 22 projects · 7 categories
+> 📊 **Totals:** 23 projects · 7 categories
 
 A showcase of Colombian talent in technology, programming and open data. All projects are:
 
@@ -61,6 +61,11 @@ There you can search projects, filter by category and discover Colombian open so
 - **Description:** Line-style (outline) SVG icon library inspired by Colombian culture, nature and traditions, available for React, Angular and Blazor.
 - **Category:** Icon library / UI
 - **Creator:** Miguel Teheran
+
+### 🔹 [crd-ui](https://github.com/JuandaGarcia/crd-ui)
+- **Description:** Credit and debit card component for payment forms and saved-card views, with live brand detection, a 3D flip and CSS-variable theming. Dependency-free, for React, Vue, Svelte and vanilla JavaScript in a single package.
+- **Category:** UI components / payment forms
+- **Creator:** Juan David García Rincón
 
 ---
 
