@@ -29,7 +29,7 @@ window.CATEGORIES = {
     john: { name: "John Guerra", github: "john-guerra", area: "Datos geográficos" },
     julian: { name: "Julian Dario Luna Patiño", github: "Kaddo-kdd", area: "IA, CLI, DevTools" },
     mateo: { name: "Mateo Robayo Rodríguez", github: "carenalgas", area: "Godot, videojuegos" },
-    archihub: { name: "BITSOL", github: "BITSOL-SAS", area: "Python, Herramientas" },
+    nestor: { name: "Néstor Andrés Peña", github: "nestorandrespe", area: "Archivos, Datos" },
   };
 
   window.PROJECTS = [
@@ -303,8 +303,8 @@ window.CATEGORIES = {
     {
       name: "ArchiHUB",
       url: "https://github.com/Archihub-App",
-      category: "recursos", // O "services" dependiendo de dónde prefieras clasificarlo
-      creator: { name: "Bitsol SAS (Néstor Peña & Pedro Ruiz)", github: "Archihub-App", area: "Archivos, Datos" },
+      category: "recursos",
+      creator: C.nestor,
       tags: ["Gestión Documental", "Archivos", "Memoria"],
       description: {
         es: "Plataforma open source y versátil de gestión documental para organizar, preservar y explorar archivos digitales empleando estructuras de metadatos adaptables.",
