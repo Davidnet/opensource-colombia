@@ -9,7 +9,7 @@
 [![All Contributors](https://img.shields.io/github/all-contributors/Mteheran/opensource-colombia?color=ee8449&style=flat-square)](#-contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-> 📊 **Totals:** 22 projects · 7 categories
+> 📊 **Totals:** 24 projects · 7 categories
 
 A showcase of Colombian talent in technology, programming and open data. All projects are:
 
@@ -61,6 +61,11 @@ There you can search projects, filter by category and discover Colombian open so
 - **Description:** Line-style (outline) SVG icon library inspired by Colombian culture, nature and traditions, available for React, Angular and Blazor.
 - **Category:** Icon library / UI
 - **Creator:** Miguel Teheran
+
+### 🔹 [Kiji Inspector](https://github.com/dataiku/kiji-inspector)
+- **Description:** Python package for mechanistic interpretability of AI agents: trains sparse autoencoders (SAEs) on a model's internal activations to explain why it selects one tool over another.
+- **Category:** AI interpretability / Machine learning
+- **Creator:** David Cardozo
 
 ---
 
@@ -147,6 +152,11 @@ There you can search projects, filter by category and discover Colombian open so
 - **Description:** Godot plugin for making point-and-click adventure games, inspired by Adventure Game Studio and PowerQuest, with room, character, dialogue and inventory management.
 - **Category:** Godot plugin / Adventure games
 - **Creator:** Mateo Robayo Rodríguez
+
+### 🔹 [Kiji Proxy](https://github.com/dataiku/kiji-proxy)
+- **Description:** Privacy proxy for AI APIs that detects and masks personally identifiable information (PII) before it reaches services like OpenAI, Anthropic or Gemini, transparently restoring it in the response.
+- **Category:** AI privacy / Security
+- **Creator:** David Cardozo
 
 ---
 

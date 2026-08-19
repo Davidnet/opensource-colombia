@@ -9,7 +9,7 @@
 [![All Contributors](https://img.shields.io/github/all-contributors/Mteheran/opensource-colombia?color=ee8449&style=flat-square)](#-contribuidores)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-> 📊 **Totales:** 22 proyectos · 7 categorías
+> 📊 **Totales:** 24 proyectos · 7 categorías
 
 Una muestra del talento colombiano en tecnología, programación y datos abiertos. Todos los proyectos son:
 
@@ -61,6 +61,11 @@ Allí puedes buscar proyectos, filtrar por categoría y descubrir el talento col
 - **Descripción:** Librería de íconos SVG de estilo lineal (outline) inspirados en la cultura, naturaleza y tradiciones de Colombia, disponible para React, Angular y Blazor.
 - **Categoría:** Librería de íconos / UI
 - **Creador:** Miguel Teheran
+
+### 🔹 [Kiji Inspector](https://github.com/dataiku/kiji-inspector)
+- **Descripción:** Paquete de Python para interpretabilidad mecanicista de agentes de IA: entrena autoencoders dispersos (SAE) sobre las activaciones internas de un modelo para explicar por qué elige una herramienta u otra.
+- **Categoría:** Interpretabilidad de IA / Machine Learning
+- **Creador:** David Cardozo
 
 ---
 
@@ -147,6 +152,11 @@ Allí puedes buscar proyectos, filtrar por categoría y descubrir el talento col
 - **Descripción:** Plugin de Godot para crear juegos de aventura gráfica point-and-click, inspirado en Adventure Game Studio y PowerQuest, con gestión de habitaciones, personajes, diálogos e inventario.
 - **Categoría:** Plugin de Godot / Aventuras gráficas
 - **Creador:** Mateo Robayo Rodríguez
+
+### 🔹 [Kiji Proxy](https://github.com/dataiku/kiji-proxy)
+- **Descripción:** Proxy de privacidad para APIs de IA que detecta y enmascara datos personales (PII) antes de enviarlos a servicios como OpenAI, Anthropic o Gemini, restaurándolos de forma transparente en la respuesta.
+- **Categoría:** Privacidad / Seguridad para IA
+- **Creador:** David Cardozo
 
 ---
 
