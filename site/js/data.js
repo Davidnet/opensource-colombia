@@ -29,6 +29,7 @@ window.CATEGORIES = {
     john: { name: "John Guerra", github: "john-guerra", area: "Datos geográficos" },
     julian: { name: "Julian Dario Luna Patiño", github: "Kaddo-kdd", area: "IA, CLI, DevTools" },
     mateo: { name: "Mateo Robayo Rodríguez", github: "carenalgas", area: "Godot, videojuegos" },
+    nestor: { name: "Néstor Andrés Peña", github: "nestorandrespe", area: "Archivos, Datos" },
   };
 
   window.PROJECTS = [
@@ -297,6 +298,18 @@ window.CATEGORIES = {
         es: "Archivo GeoJSON con los límites geográficos de los departamentos de Colombia, listo para usar en mapas y visualizaciones con D3.js, Power BI, Metabase y otras herramientas.",
         en: "GeoJSON file with the geographic boundaries of Colombia's departments, ready to use in maps and visualizations with D3.js, Power BI, Metabase and other tools.",
         pt: "Arquivo GeoJSON com os limites geográficos dos departamentos da Colômbia, pronto para usar em mapas e visualizações com D3.js, Power BI, Metabase e outras ferramentas.",
+      },
+    },
+    {
+      name: "ArchiHUB",
+      url: "https://github.com/Archihub-App",
+      category: "recursos",
+      creator: C.nestor,
+      tags: ["Gestión Documental", "Archivos", "Memoria"],
+      description: {
+        es: "Plataforma open source y versátil de gestión documental para organizar, preservar y explorar archivos digitales empleando estructuras de metadatos adaptables.",
+        en: "Versatile open-source document management platform to organize, preserve, and explore digital archives using adaptable metadata structures.",
+        pt: "Plataforma open source e versátil de gestão de documentos para organizar, preservar e explorar arquivos digitais usando estruturas de metadados adaptáveis.",
       },
     },
   ];

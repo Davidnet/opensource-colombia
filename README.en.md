@@ -9,7 +9,7 @@
 [![All Contributors](https://img.shields.io/github/all-contributors/Mteheran/opensource-colombia?color=ee8449&style=flat-square)](#-contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-> 📊 **Totals:** 22 projects · 7 categories
+> 📊 **Totals:** 23 projects · 7 categories
 
 A showcase of Colombian talent in technology, programming and open data. All projects are:
 
@@ -165,6 +165,11 @@ There you can search projects, filter by category and discover Colombian open so
 - **Description:** GeoJSON file with the geographic boundaries of Colombia's departments, ready to use in maps and visualizations with D3.js, Power BI, Metabase and other tools.
 - **Category:** Geographic data / GeoJSON
 - **Creator:** John Guerra
+
+### 🔹 [ArchiHUB](https://github.com/Archihub-App)
+- **Description:** Versatile open-source document management platform to organize, preserve, and explore digital archives using adaptable metadata structures.
+- **Category:** Document Management / Digital Preservation
+- **Creator:** Néstor Andrés Peña
 
 ---
 
