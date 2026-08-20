@@ -29,6 +29,7 @@ window.CATEGORIES = {
     john: { name: "John Guerra", github: "john-guerra", area: "Datos geográficos" },
     julian: { name: "Julian Dario Luna Patiño", github: "Kaddo-kdd", area: "IA, CLI, DevTools" },
     mateo: { name: "Mateo Robayo Rodríguez", github: "carenalgas", area: "Godot, videojuegos" },
+    juanda: { name: "Juan David García Rincón", github: "JuandaGarcia", area: "UI, componentes web" },
     nestor: { name: "Néstor Andrés Peña", github: "nestorandrespe", area: "Archivos, Datos" },
   };
 
@@ -298,6 +299,18 @@ window.CATEGORIES = {
         es: "Archivo GeoJSON con los límites geográficos de los departamentos de Colombia, listo para usar en mapas y visualizaciones con D3.js, Power BI, Metabase y otras herramientas.",
         en: "GeoJSON file with the geographic boundaries of Colombia's departments, ready to use in maps and visualizations with D3.js, Power BI, Metabase and other tools.",
         pt: "Arquivo GeoJSON com os limites geográficos dos departamentos da Colômbia, pronto para usar em mapas e visualizações com D3.js, Power BI, Metabase e outras ferramentas.",
+      },
+    },
+    {
+      name: "crd-ui",
+      url: "https://github.com/JuandaGarcia/crd-ui",
+      category: "libraries",
+      creator: C.juanda,
+      tags: ["React", "Vue", "Svelte"],
+      description: {
+        es: "Componente de tarjeta de crédito y débito para formularios de pago y vistas de tarjetas guardadas, con detección de marca en vivo, giro 3D y temas por variables CSS. Sin dependencias, para React, Vue, Svelte y JavaScript puro en un solo paquete.",
+        en: "Credit and debit card component for payment forms and saved-card views, with live brand detection, a 3D flip and CSS-variable theming. Dependency-free, for React, Vue, Svelte and vanilla JavaScript in a single package.",
+        pt: "Componente de cartão de crédito e débito para formulários de pagamento e visualizações de cartões salvos, com detecção de bandeira ao vivo, giro 3D e temas por variáveis CSS. Sem dependências, para React, Vue, Svelte e JavaScript puro em um único pacote.",
       },
     },
     {

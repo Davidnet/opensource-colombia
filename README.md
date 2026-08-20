@@ -62,6 +62,11 @@ Allí puedes buscar proyectos, filtrar por categoría y descubrir el talento col
 - **Categoría:** Librería de íconos / UI
 - **Creador:** Miguel Teheran
 
+### 🔹 [crd-ui](https://github.com/JuandaGarcia/crd-ui)
+- **Descripción:** Componente de tarjeta de crédito y débito para formularios de pago y vistas de tarjetas guardadas, con detección de marca en vivo, giro 3D y temas por variables CSS. Sin dependencias, para React, Vue, Svelte y JavaScript puro en un solo paquete.
+- **Categoría:** Componentes de UI / formularios de pago
+- **Creador:** Juan David García Rincón
+
 ---
 
 ## 🛰️ APIs y Datos Abiertos

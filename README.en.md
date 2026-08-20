@@ -62,6 +62,11 @@ There you can search projects, filter by category and discover Colombian open so
 - **Category:** Icon library / UI
 - **Creator:** Miguel Teheran
 
+### 🔹 [crd-ui](https://github.com/JuandaGarcia/crd-ui)
+- **Description:** Credit and debit card component for payment forms and saved-card views, with live brand detection, a 3D flip and CSS-variable theming. Dependency-free, for React, Vue, Svelte and vanilla JavaScript in a single package.
+- **Category:** UI components / payment forms
+- **Creator:** Juan David García Rincón
+
 ---
 
 ## 🛰️ APIs & Open Data
