@@ -9,7 +9,7 @@
 [![All Contributors](https://img.shields.io/github/all-contributors/Mteheran/opensource-colombia?color=ee8449&style=flat-square)](#-contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-> 📊 **Totals:** 25 projects · 7 categories
+> 📊 **Totals:** 27 projects · 7 categories
 
 A showcase of Colombian talent in technology, programming and open data. All projects are:
 
@@ -71,6 +71,11 @@ There you can search projects, filter by category and discover Colombian open so
 - **Description:** API of Flax (Google's neural network library for JAX) that uses standard Python classes and explicit state handling to make defining and training models simpler and more intuitive.
 - **Category:** Deep learning framework
 - **Creator:** Cristian García
+
+### 🔹 [crd-ui](https://github.com/JuandaGarcia/crd-ui)
+- **Description:** Credit and debit card component for payment forms and saved-card views, with live brand detection, a 3D flip and CSS-variable theming. Dependency-free, for React, Vue, Svelte and vanilla JavaScript in a single package.
+- **Category:** UI components / payment forms
+- **Creator:** Juan David García Rincón
 
 ---
 
@@ -180,6 +185,11 @@ There you can search projects, filter by category and discover Colombian open so
 - **Description:** GeoJSON file with the geographic boundaries of Colombia's departments, ready to use in maps and visualizations with D3.js, Power BI, Metabase and other tools.
 - **Category:** Geographic data / GeoJSON
 - **Creator:** John Guerra
+
+### 🔹 [ArchiHUB](https://github.com/Archihub-App)
+- **Description:** Versatile open-source document management platform to organize, preserve, and explore digital archives using adaptable metadata structures.
+- **Category:** Document Management / Digital Preservation
+- **Creator:** Néstor Andrés Peña
 
 ---
 
