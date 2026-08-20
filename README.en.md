@@ -171,6 +171,11 @@ There you can search projects, filter by category and discover Colombian open so
 - **Category:** Geographic data / GeoJSON
 - **Creator:** John Guerra
 
+### 🔹 [ArchiHUB](https://github.com/Archihub-App)
+- **Description:** Versatile open-source document management platform to organize, preserve, and explore digital archives using adaptable metadata structures.
+- **Category:** Document Management / Digital Preservation
+- **Creator:** Néstor Andrés Peña
+
 ---
 
 These projects show that Colombia is building tools used globally by developers, companies and communities. Follow the work of these leaders and contribute to the Colombian open source ecosystem! 🇨🇴💻

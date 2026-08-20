@@ -30,6 +30,7 @@ window.CATEGORIES = {
     julian: { name: "Julian Dario Luna Patiño", github: "Kaddo-kdd", area: "IA, CLI, DevTools" },
     mateo: { name: "Mateo Robayo Rodríguez", github: "carenalgas", area: "Godot, videojuegos" },
     juanda: { name: "Juan David García Rincón", github: "JuandaGarcia", area: "UI, componentes web" },
+    nestor: { name: "Néstor Andrés Peña", github: "nestorandrespe", area: "Archivos, Datos" },
   };
 
   window.PROJECTS = [
@@ -310,6 +311,18 @@ window.CATEGORIES = {
         es: "Componente de tarjeta de crédito y débito para formularios de pago y vistas de tarjetas guardadas, con detección de marca en vivo, giro 3D y temas por variables CSS. Sin dependencias, para React, Vue, Svelte y JavaScript puro en un solo paquete.",
         en: "Credit and debit card component for payment forms and saved-card views, with live brand detection, a 3D flip and CSS-variable theming. Dependency-free, for React, Vue, Svelte and vanilla JavaScript in a single package.",
         pt: "Componente de cartão de crédito e débito para formulários de pagamento e visualizações de cartões salvos, com detecção de bandeira ao vivo, giro 3D e temas por variáveis CSS. Sem dependências, para React, Vue, Svelte e JavaScript puro em um único pacote.",
+      },
+    },
+    {
+      name: "ArchiHUB",
+      url: "https://github.com/Archihub-App",
+      category: "recursos",
+      creator: C.nestor,
+      tags: ["Gestión Documental", "Archivos", "Memoria"],
+      description: {
+        es: "Plataforma open source y versátil de gestión documental para organizar, preservar y explorar archivos digitales empleando estructuras de metadatos adaptables.",
+        en: "Versatile open-source document management platform to organize, preserve, and explore digital archives using adaptable metadata structures.",
+        pt: "Plataforma open source e versátil de gestão de documentos para organizar, preservar e explorar arquivos digitais usando estruturas de metadados adaptáveis.",
       },
     },
   ];

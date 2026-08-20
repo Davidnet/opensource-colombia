@@ -171,6 +171,11 @@ Allí puedes buscar proyectos, filtrar por categoría y descubrir el talento col
 - **Categoría:** Datos geográficos / GeoJSON
 - **Creador:** John Guerra
 
+### 🔹 [ArchiHUB](https://github.com/Archihub-App)
+- **Descripción:** Plataforma open source y versátil de gestión documental para organizar, preservar y explorar archivos digitales empleando estructuras de metadatos adaptables.
+- **Categoría:** Gestión Documental / Preservación Digital
+- **Creador:** Néstor Andrés Peña
+
 ---
 
 Estos proyectos demuestran que en Colombia se están construyendo herramientas utilizadas globalmente por desarrolladores, empresas y comunidades. ¡Sigue el trabajo de estos líderes y contribuye al ecosistema open source colombiano! 🇨🇴💻
